@@ -1,5 +1,5 @@
 
-HRLoginPortal is fully resposive.
+HRLoginPortal: It is fully responsive which enables the HR to get the data of employees. It has filters and other options too and it is fully responsive.
 
 Link : https://abhi568.github.io/HRPortal/
 
